@@ -1,2 +1,2 @@
 # caribou
-Nice typescript syntax
+Starter Template Code to convert Typescript to JavaScript
